@@ -13,7 +13,7 @@ Here is his ETH wallet list:
 0x5d8fF2274FE11B3C6a05A2EdCc3F59Dc8c47d4e7
 ```
 
-[Video Guide](https://youtu.be/fHCT3dkRdFs)
+[Video Guide](https://www.youtube.com/watch?v=fHCT3dkRdFs)
 
 I used the following tools for my investigation:  
 - [OKX explorer](https://www.okx.com/web3/explorer/eth)  
@@ -742,4 +742,4 @@ Then, I discovered another 247 addresses. If you want to check the routes, pleas
 
 Here is a video guide on how to use and review my investigation.
 
-https://youtu.be/fHCT3dkRdFs
+https://www.youtube.com/watch?v=fHCT3dkRdFs
