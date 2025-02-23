@@ -134,8 +134,8 @@ within approximately three minutes of receiving funds, wallet `mantra1g575upzua3
 [0x2b76d89318b1c674bd1fe49491b2674326089cea](https://www.okx.com/web3/explorer/eth/address/0x2b76d89318b1c674bd1fe49491b2674326089cea/token-transfer#token-address=0x3593d125a4f7849a1b059e64f4517a86dd60c95d)
 
 On 11/22/2024, wallet `0x2b76d89318b1c674bd1fe49491b2674326089cea` deposited 51,270 $OM into wallet `mantra1gvaa7m2h58f8wfm5wz4f7atx4uzq6wyhx8ygym`. That wallet then transferred 15,500 $OM to wallet `mantra1rvqn5uvf3fq2vanl9jjazzuu5papgppv4jjkz5`.
+![image](https://github.com/user-attachments/assets/63628f59-ef0d-4396-9da4-0f660ff83ae6)
 
-![image](https://github.com/user-attachments/assets/460325a6-ed8e-477f-9831-dd2bfdf4bc7b)
  Within 45 seconds of receiving funds, wallet `mantra1rvqn5uvf3fq2vanl9jjazzuu5papgppv4jjkz5` moved all its assets to wallet `mantra1n4u9s9h3c670s7wsfycf6v7d7f2t55ql9gm3sj` using the same gas fee.
 
 [0x5d8ff2274fe11b3c6a05a2edcc3f59dc8c47d4e7](https://www.okx.com/web3/explorer/eth/address/0x5d8ff2274fe11b3c6a05a2edcc3f59dc8c47d4e7/token-transfer#token-address=0x3593d125a4f7849a1b059e64f4517a86dd60c95d)
