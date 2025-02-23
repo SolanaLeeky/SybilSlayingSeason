@@ -1,0 +1,447 @@
+[
+{
+  "address": "mantra1apsy0xc82a2q0mee922etkmzc753e29j90gxa6",
+  "totalPoints": 51.04,
+  "seasonalPoints": 51.04,
+  "primaryPoints": 0,
+  "rank": 17881,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1apsy0xc82a2q0mee922etkmzc753e29j90gxa6"
+  ]
+},
+{
+  "address": "mantra1p5u6jg84648nlgv8vx0zspcpx4t27gfymeqg3m",
+  "totalPoints": 37.84,
+  "seasonalPoints": 37.84,
+  "primaryPoints": 0,
+  "rank": 29629,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1p5u6jg84648nlgv8vx0zspcpx4t27gfymeqg3m"
+  ]
+},
+{
+  "address": "mantra124nkrtw9607ufn7gxhrfyql2fhjww2cwmrmvtc",
+  "totalPoints": 38.72,
+  "seasonalPoints": 38.72,
+  "primaryPoints": 0,
+  "rank": 27853,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra124nkrtw9607ufn7gxhrfyql2fhjww2cwmrmvtc"
+  ]
+},
+{
+  "address": "mantra124nkrtw9607ufn7gxhrfyql2fhjww2cwmrmvtc",
+  "totalPoints": 38.72,
+  "seasonalPoints": 38.72,
+  "primaryPoints": 0,
+  "rank": 27853,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra124nkrtw9607ufn7gxhrfyql2fhjww2cwmrmvtc"
+  ]
+},
+{
+  "address": "mantra1tntu2c4g3zfsuplsjx00th08axf0a3799tneug",
+  "totalPoints": 42.24,
+  "seasonalPoints": 42.24,
+  "primaryPoints": 0,
+  "rank": 23798,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1tntu2c4g3zfsuplsjx00th08axf0a3799tneug"
+  ]
+},
+{
+  "address": "mantra1akw2sstr884c4z9pyrjyn5eamy6ypegllsw8c0",
+  "totalPoints": 41.36,
+  "seasonalPoints": 41.36,
+  "primaryPoints": 0,
+  "rank": 24561,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1akw2sstr884c4z9pyrjyn5eamy6ypegllsw8c0"
+  ]
+},
+{
+  "address": "mantra175kxmfkttzr76na2rumkuamgf9ddeuxr38smdj",
+  "totalPoints": 33.44,
+  "seasonalPoints": 33.44,
+  "primaryPoints": 0,
+  "rank": 36256,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra175kxmfkttzr76na2rumkuamgf9ddeuxr38smdj"
+  ]
+},
+{
+  "address": "mantra1plqkv9pnkt8v5gpzczcqznj0knlffpa8w2tgws",
+  "totalPoints": 42.24,
+  "seasonalPoints": 42.24,
+  "primaryPoints": 0,
+  "rank": 23799,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1plqkv9pnkt8v5gpzczcqznj0knlffpa8w2tgws"
+  ]
+},
+{
+  "address": "mantra12p3gdjgp2ze3amvdy4me7gahpvpyrt7pcta22s",
+  "totalPoints": 40.48,
+  "seasonalPoints": 40.48,
+  "primaryPoints": 0,
+  "rank": 25669,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra12p3gdjgp2ze3amvdy4me7gahpvpyrt7pcta22s"
+  ]
+},
+{
+  "address": "mantra19phjn4wwdqdvqfvqnyw9er47zcajcuuy3qd7fy",
+  "totalPoints": 38.72,
+  "seasonalPoints": 38.72,
+  "primaryPoints": 0,
+  "rank": 27854,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra19phjn4wwdqdvqfvqnyw9er47zcajcuuy3qd7fy"
+  ]
+},
+{
+  "address": "mantra1hcal8hmh62tvtfa9vjrtwve9kkrn4sn0purh63",
+  "totalPoints": 34.32,
+  "seasonalPoints": 34.32,
+  "primaryPoints": 0,
+  "rank": 34825,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1hcal8hmh62tvtfa9vjrtwve9kkrn4sn0purh63"
+  ]
+},
+{
+  "address": "mantra1wdfd5ujhzul7sc43h0hxwstxursch4j8lqrqln",
+  "totalPoints": 28.16,
+  "seasonalPoints": 28.16,
+  "primaryPoints": 0,
+  "rank": 56656,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1wdfd5ujhzul7sc43h0hxwstxursch4j8lqrqln"
+  ]
+},
+{
+  "address": "mantra1fresk73cvg96elr4r2q56v98wczlzs8e9aeytn",
+  "totalPoints": 28.16,
+  "seasonalPoints": 28.16,
+  "primaryPoints": 0,
+  "rank": 56657,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1fresk73cvg96elr4r2q56v98wczlzs8e9aeytn"
+  ]
+},
+{
+  "address": "mantra1dk854tvpcruhe4vc6e4rqhvywp0lvstnet95uw",
+  "totalPoints": 25.52,
+  "seasonalPoints": 25.52,
+  "primaryPoints": 0,
+  "rank": 73370,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1dk854tvpcruhe4vc6e4rqhvywp0lvstnet95uw"
+  ]
+},
+{
+  "address": "mantra1x2qyty5kuquv8kzcdhcgkcqpyhxj03ynz37gp0",
+  "totalPoints": 24.64,
+  "seasonalPoints": 24.64,
+  "primaryPoints": 0,
+  "rank": 74497,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1x2qyty5kuquv8kzcdhcgkcqpyhxj03ynz37gp0"
+  ]
+},
+{
+  "address": "mantra1fkcjkpqm6hxy27lvvttxvhl3rtesgc4z28eqsv",
+  "totalPoints": 25.52,
+  "seasonalPoints": 25.52,
+  "primaryPoints": 0,
+  "rank": 73371,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1fkcjkpqm6hxy27lvvttxvhl3rtesgc4z28eqsv"
+  ]
+},
+{
+  "address": "mantra1wx74s2ly7vfxm49dwmpklemwdftmu4fe42c60z",
+  "totalPoints": 25.52,
+  "seasonalPoints": 25.52,
+  "primaryPoints": 0,
+  "rank": 73372,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1wx74s2ly7vfxm49dwmpklemwdftmu4fe42c60z"
+  ]
+},
+{
+  "address": "mantra150nca5z2hh6uw8t9wgm4syn2zjnghv33slnpxw",
+  "totalPoints": 22,
+  "seasonalPoints": 22,
+  "primaryPoints": 0,
+  "rank": 79701,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra150nca5z2hh6uw8t9wgm4syn2zjnghv33slnpxw"
+  ]
+},
+{
+  "address": "mantra1t87pxktywfw8x2s7k9twzg7rfkntd432n4t8j2",
+  "totalPoints": 22.88,
+  "seasonalPoints": 22.88,
+  "primaryPoints": 0,
+  "rank": 78409,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1t87pxktywfw8x2s7k9twzg7rfkntd432n4t8j2"
+  ]
+},
+{
+  "address": "mantra1w4q3arz8letpp0wwww95clvp560h9sjjd3lm9a",
+  "totalPoints": 24.64,
+  "seasonalPoints": 24.64,
+  "primaryPoints": 0,
+  "rank": 74499,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1w4q3arz8letpp0wwww95clvp560h9sjjd3lm9a"
+  ]
+},
+{
+  "address": "mantra1fvnj0l865tut8jtje07w3j2xvrh4n709pgvpum",
+  "totalPoints": 25.52,
+  "seasonalPoints": 25.52,
+  "primaryPoints": 0,
+  "rank": 73373,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1fvnj0l865tut8jtje07w3j2xvrh4n709pgvpum"
+  ]
+},
+{
+  "address": "mantra1k4s67yq4utyd06u8w8jzf4w8wxq46ct3kw0dlj",
+  "totalPoints": 25.52,
+  "seasonalPoints": 25.52,
+  "primaryPoints": 0,
+  "rank": 73374,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1k4s67yq4utyd06u8w8jzf4w8wxq46ct3kw0dlj"
+  ]
+},
+{
+  "address": "mantra1u8nmj4c6tdeh8hg8e8vyffed4ehsglernrzce5",
+  "totalPoints": 25.52,
+  "seasonalPoints": 25.52,
+  "primaryPoints": 0,
+  "rank": 73375,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1u8nmj4c6tdeh8hg8e8vyffed4ehsglernrzce5"
+  ]
+},
+{
+  "address": "mantra16z0amjlp9mh324lvrduhxer6w0w39x2f0s0pr3",
+  "totalPoints": 26.4,
+  "seasonalPoints": 26.4,
+  "primaryPoints": 0,
+  "rank": 72471,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra16z0amjlp9mh324lvrduhxer6w0w39x2f0s0pr3"
+  ]
+},
+{
+  "address": "mantra1qxal5k84ysh0hhwvp0alp3v3gpa8vcxeqvlk4j",
+  "totalPoints": 25.52,
+  "seasonalPoints": 25.52,
+  "primaryPoints": 0,
+  "rank": 73376,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1qxal5k84ysh0hhwvp0alp3v3gpa8vcxeqvlk4j"
+  ]
+},
+{
+  "address": "mantra14u92rphyf4p83v2wudtrd45e2ycg9z0ya7g50x",
+  "totalPoints": 25.52,
+  "seasonalPoints": 25.52,
+  "primaryPoints": 0,
+  "rank": 73377,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra14u92rphyf4p83v2wudtrd45e2ycg9z0ya7g50x"
+  ]
+},
+{
+  "address": "mantra1qdrnu7rqa7q94m3fy7yyk352zljee2qap99gzl",
+  "totalPoints": 22.88,
+  "seasonalPoints": 22.88,
+  "primaryPoints": 0,
+  "rank": 78410,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1qdrnu7rqa7q94m3fy7yyk352zljee2qap99gzl"
+  ]
+},
+{
+  "address": "mantra1yhaek6a9qke8pf9r2rc55j2a8kanlu4gsfc4zq",
+  "totalPoints": 22,
+  "seasonalPoints": 22,
+  "primaryPoints": 0,
+  "rank": 79702,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1yhaek6a9qke8pf9r2rc55j2a8kanlu4gsfc4zq"
+  ]
+},
+{
+  "address": "mantra134wqhaj0x04vezgvdru9z7eeq0phv07qkf3mz9",
+  "totalPoints": 22,
+  "seasonalPoints": 22,
+  "primaryPoints": 0,
+  "rank": 79703,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra134wqhaj0x04vezgvdru9z7eeq0phv07qkf3mz9"
+  ]
+},
+{
+  "address": "mantra1pfnppxs9rusj2fwls7fa5aewzxqec87xn57fuv",
+  "totalPoints": 16.72,
+  "seasonalPoints": 16.72,
+  "primaryPoints": 0,
+  "rank": 119622,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1pfnppxs9rusj2fwls7fa5aewzxqec87xn57fuv"
+  ]
+},
+{
+  "address": "mantra1pc42v8ap7mek8rsyaka6x77fle4jws7njuxxnz",
+  "totalPoints": 21.12,
+  "seasonalPoints": 21.12,
+  "primaryPoints": 0,
+  "rank": 80388,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1pc42v8ap7mek8rsyaka6x77fle4jws7njuxxnz"
+  ]
+},
+{
+  "address": "mantra1tdtt4pl9286aau8cemjyj6y0d2zzq6l5sc9fdp",
+  "totalPoints": 19.36,
+  "seasonalPoints": 19.36,
+  "primaryPoints": 0,
+  "rank": 102529,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1tdtt4pl9286aau8cemjyj6y0d2zzq6l5sc9fdp"
+  ]
+},
+{
+  "address": "mantra1j8asspp6g9racskdfndjhxtv5mwdr3t9exnz4f",
+  "totalPoints": 14.96,
+  "seasonalPoints": 14.96,
+  "primaryPoints": 0,
+  "rank": 120773,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1j8asspp6g9racskdfndjhxtv5mwdr3t9exnz4f"
+  ]
+},
+{
+  "address": "mantra16nsev6r4ugnv8uc35y350cphm4zg5mxskcsvas",
+  "totalPoints": 14.96,
+  "seasonalPoints": 14.96,
+  "primaryPoints": 0,
+  "rank": 120774,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra16nsev6r4ugnv8uc35y350cphm4zg5mxskcsvas"
+  ]
+},
+{
+  "address": "mantra1e00hqaxapwqc62xayx5nv5c8ws0khvrry75dgh",
+  "totalPoints": 14.08,
+  "seasonalPoints": 14.08,
+  "primaryPoints": 0,
+  "rank": 121000,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra1e00hqaxapwqc62xayx5nv5c8ws0khvrry75dgh"
+  ]
+},
+{
+  "address": "mantra152kx76h53z4e5d7ezq90plxjvwjkdz0eveh6m9",
+  "totalPoints": 14.96,
+  "seasonalPoints": 14.96,
+  "primaryPoints": 0,
+  "rank": 120775,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra152kx76h53z4e5d7ezq90plxjvwjkdz0eveh6m9"
+  ]
+},
+{
+  "address": "mantra1xafns0rrx2kwtcltvqxthac4ek22p8w98vvtny",
+  "totalPoints": 37.84,
+  "seasonalPoints": 37.84,
+  "primaryPoints": 0,
+  "rank": 29630,
+  "multiplier": 1,
+  "route": [
+    "mantra1yxp82qlay8768867clrg64kje9dyv4y6guqgpz",
+    "mantra124nkrtw9607ufn7gxhrfyql2fhjww2cwmrmvtc",
+    "mantra1xafns0rrx2kwtcltvqxthac4ek22p8w98vvtny"
+  ]
+}
+]
