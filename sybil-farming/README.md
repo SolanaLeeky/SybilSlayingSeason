@@ -100,7 +100,7 @@ Then, within approximately 45 seconds, wallet `mantra15v43kq8ctxvmke347dxmas5m3u
 [0x898386661c7d3f826eab7fd7102bde87268f6461](https://www.okx.com/web3/explorer/eth/address/0x898386661c7d3f826eab7fd7102bde87268f6461/token-transfer#token-address=0x3593d125a4f7849a1b059e64f4517a86dd60c95d)
 
 On 10/25/2024, wallet `0x898386661c7d3f826eab7fd7102bde87268f6461` bridged 250,000 OM to wallet `mantra15xgt47uc220hv8ssrc9wlt7w294uewqpgkvm9y`. That wallet then passed the funds to `mantra1tu86ntgz4dddyr7ch0va2h894ws7segae4r4g8`, which ultimately funneled all assets into `mantra1n4u9s9h3c670s7wsfycf6v7d7f2t55ql9gm3sj`.
-![250,000 OM](https://s1.ezgif.com/tmp/ezgif-16166ef47a71ea.gif)
+![image](https://github.com/user-attachments/assets/d2181a4b-216b-4367-8320-fa4c5b1ca21c)
 
 [0x245310565c2e062adbb66ac28666292a4aa8216e](https://www.okx.com/web3/explorer/eth/address/0x245310565c2e062adbb66ac28666292a4aa8216e/token-transfer#token-address=0x3593d125a4f7849a1b059e64f4517a86dd60c95d)
 
