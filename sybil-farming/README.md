@@ -142,7 +142,7 @@ On 11/22/2024, wallet `0x2b76d89318b1c674bd1fe49491b2674326089cea` deposited 51,
 
 On 11/22/2024, wallet `0x5d8ff2274fe11b3c6a05a2edcc3f59dc8c47d4e7` deposited 478,150 $OM into wallet `mantra1h7g4f56gf3at7crv5vkdmq2e72fcxdt5vdqquh` via 16 transactions. That wallet then transferred 6,080 $OM to wallet `mantra1kfhk5x4alq9xe0rlag8e03x0a59lvl3cw3s0s9`.
 
-![image](https://github.com/user-attachments/assets/7fb28b1c-0d38-4a24-b23e-2c5df5b9c62e)
+![image](https://github.com/user-attachments/assets/5311736e-67cb-4326-9ef9-fe6eafdda9cd)
 
  within approximately 45 seconds of receiving funds, wallet `mantra1kfhk5x4alq9xe0rlag8e03x0a59lvl3cw3s0s9` moved all its assets to wallet `mantra1n4u9s9h3c670s7wsfycf6v7d7f2t55ql9gm3sj` using the same gas fee.
 
