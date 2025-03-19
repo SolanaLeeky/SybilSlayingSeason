@@ -8,18 +8,7 @@ At a recent announcement  Sybil Detection and Decision on $OM Allocation...
 
 However, their team's suspected Sybil wallets remain eligible for the airdrop. 
 
-let's start with conversation with their team with me ,  [archive link 
-](https://tickettool.xyz/transcript/v1/935370529534263296/1346162632603729970/transcript--0690-leeky.html/67daf5a6/67d9a426/c12f528975b3ac7eeb58f8abec53f46ed4642840e7f1b283c70bb82c80c92942)
-
-
-![image](https://github.com/user-attachments/assets/4666cc7e-1e38-4f19-840a-9bd29b11c1a8)
-![image](https://github.com/user-attachments/assets/2be497c0-fde8-42dd-87da-b8f597cada8d)
-![image](https://github.com/user-attachments/assets/ada27372-1260-4b25-a506-0760aa95caad)
-
-Guitarplayer, who personally knows one of the top-10 participants, mentioned to me: “If a user invests real money, they typically aren’t a Sybil.”
-
-
-So, I decided to analyze whether the team was involved in the airdrop.
+I decided to analyze whether the team was involved in the airdrop.
 
 
 First, I examined the top wallet on the rich list, [mantra1nc3wrnq7swa0c66nf873g8y4p7q06ezqzyct22](http://176.97.114.147:5173/MANTRA-1/account/mantra1nc3wrnq7swa0c66nf873g8y4p7q06ezqzyct22), 
